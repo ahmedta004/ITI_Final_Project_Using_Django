@@ -121,7 +121,6 @@ ITI\_Final\_Project\_Using\_Django/
 ## How apps looks like
 
 `try to make 3 level head for every big point ex ### admin page or ### home page`
-### admin page 
 
 ### Home Page 
 ![Home page](images/home.png)
