@@ -1,8 +1,4 @@
-# ITI Final Project — MyProject
-
-> **This README was generated after analyzing the repository** `ahmedta004/ITI_Final_Project_Using_Django`.
-
----
+# ITI Final Project 
 
 ## Table of contents
 
