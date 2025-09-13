@@ -16,6 +16,7 @@ It provides a homepage and about page, lets visitors browse posts (list + detail
 - [Data Flow](#data-flow)
 - [Installation & Setup](#installation--setup)
 - [Recommendations](#recommendations)
+- [How app looks likes](#How-apps-looks-like)
 
 ---
 
@@ -115,6 +116,14 @@ ITI\_Final\_Project\_Using\_Django/
   - `post.date`
   - `post.body`
   - `post.banner.url`
+
+---
+## How apps looks like
+
+`try to make 3 level head for every big point ex ### admin page or ### home page`
+### admin page 
+
+
 
 ---
 
