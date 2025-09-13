@@ -123,6 +123,28 @@ ITI\_Final\_Project\_Using\_Django/
 `try to make 3 level head for every big point ex ### admin page or ### home page`
 ### admin page 
 
+### Home Page 
+![Home page](images/home.png)
+
+### About Page
+![About Page](images/about.png)
+
+### Posts Page
+![Posts Page](images/posts.png)
+![Posts-post page](images/post.png)
+
+### Register Page
+![Register page](images/register.png)
+
+### Login Page
+![Login Page](images/login.png)
+
+### admin Page
+![Admin Page](images/admin.png)
+![Admin-posts](images/admin-posts.png)
+![Admin-addpost](images/admin-addpost.png)
+![Admin-users](images/admin-users.png)
+
 
 
 ---
