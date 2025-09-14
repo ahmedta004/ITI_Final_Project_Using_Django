@@ -120,8 +120,6 @@ ITI\_Final\_Project\_Using\_Django/
 ---
 ## How apps looks like
 
-`try to make 3 level head for every big point ex ### admin page or ### home page`
-
 ### Home Page 
 ![Home page](images/home.png)
 
@@ -239,8 +237,3 @@ You may adapt or extend it for learning purposes.
 ```
 
 ---
-
-👉 This version **fully analyzes your repo + purpose explanation** and converts it into a **professional README**.  
-
-Do you want me to also **add screenshots/demos section placeholders** (so you can insert images later), or should I keep it clean and text-only?
-```
